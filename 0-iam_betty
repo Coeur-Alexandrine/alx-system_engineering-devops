@@ -1,2 +1,0 @@
-echo -e '#!/bin/bash' > 0-iam_betty
-echo 'nsu betty' >> 0-iam_betty
