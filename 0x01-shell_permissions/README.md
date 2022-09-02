@@ -1,2 +1,2 @@
 #!/bin/bash
-Create a script that creates a directory called mydir with permissions 751 in the working directory
+Write a script that changes the group owner to school for the file hello
