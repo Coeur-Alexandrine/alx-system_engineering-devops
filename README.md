@@ -1,2 +1,3 @@
-echo '#!/bin/bash' > README.md
-echo 'Create a script that switches the current user to the user betty'>>README.md
+#!/bin/bash'
+Create a symbolic link to /bin/ls, named __ls__
+
