@@ -1,3 +1,1 @@
-#!/bin/bash'
-Create a symbolic link to /bin/ls, named __ls__
-
+prints Hello World followed by a new line to the standard output
