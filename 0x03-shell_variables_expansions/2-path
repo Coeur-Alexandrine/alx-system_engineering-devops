@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((LIVE ** JOY))
+export PATH=$PATH:/action
