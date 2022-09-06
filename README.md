@@ -1,1 +1,2 @@
-prints Hello World followed by a new line to the standard output
+#!/bin/bash
+echo '0x02-shell_redirections Input Output Redirections and filters'
